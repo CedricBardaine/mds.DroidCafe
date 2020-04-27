@@ -9,13 +9,13 @@ android {
         applicationId "fr.mds.droidcafev2"
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 1
-        versionName "1.0 (4.1) Clickable images"
+        versionCode 2
+        versionName "2.0 (4.2) Clickable images"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
-            mignifyEnabled false
+//            mignifyEnabled false // since giting it generate an error : missing
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
