@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778085284266",
+    "firebase_url": "https://mds-droidcafev2.firebaseio.com",
+    "project_id": "mds-droidcafev2",
+    "storage_bucket": "mds-droidcafev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778085284266:android:8047b1ef369781f5c453d3",
+        "android_client_info": {
+          "package_name": "fr.mds.droidcafev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778085284266-ot8135c2m7aff5pvlh988agug8ut24g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-2ORbBMPF4jC0WfTpOWtwtikXneCPV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778085284266-ot8135c2m7aff5pvlh988agug8ut24g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
